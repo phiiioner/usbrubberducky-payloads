@@ -1,8 +1,3 @@
-#Hides Desktop Icons
-$Path="HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced"
-Set-ItemProperty -Path $Path -Name "HideIcons" -Value 1
-Get-Process "explorer"| Stop-Process
-
 #Changes Background  
 #URL For the Image of your choice (Wanna Cry Ransomware Background)
 $url = "https://static-cdn.toi-media.com/www/uploads/2021/01/iStock-1048265360-e1609854836663.jpg"

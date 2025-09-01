@@ -18,12 +18,6 @@ Add-Type -TypeDefinition $setwallpapersrc
 
 [Wallpaper]::SetWallpaper("C:\Windows\Web\Wallpaper\ThemeC\img29.jpg")
 
-
-#Hides Desktop Icons
-$Path="HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced"
-Set-ItemProperty -Path $Path -Name "HideIcons" -Value 0
-Get-Process "explorer"| Stop-Process
-
 Get-Process *notepad* | Stop-Process -Force
 
 Get-Process powershell | Stop-Process -Force
