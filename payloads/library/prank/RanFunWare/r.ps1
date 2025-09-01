@@ -67,4 +67,14 @@ if (!$image) {$image = "None"}
 
 }
 
-MsgBox -m 'Your Computer Has Been Infected' -t "Warning" -b OKCancel -i Warning
+MsgBox -m 'Du schuldest mir Geld!!!' -t "Warning" -b OKCancel -i Warning
+MsgBox -m 'Du schuldest mir Geld!!!' -t "Warning" -b OKCancel -i Warning
+MsgBox -m 'Du schuldest mir Geld!!!' -t "Warning" -b OKCancel -i Warning
+MsgBox -m 'Du schuldest mir Geld!!!' -t "Warning" -b OKCancel -i Warning
+MsgBox -m 'Du schuldest mir Geld!!!' -t "Warning" -b OKCancel -i Warning
+MsgBox -m 'Du schuldest mir Geld!!!' -t "Warning" -b OKCancel -i Warning
+MsgBox -m 'Du schuldest mir Geld!!!' -t "Warning" -b OKCancel -i Warning
+MsgBox -m 'Du schuldest mir Geld!!!' -t "Warning" -b OKCancel -i Warning
+MsgBox -m 'Du schuldest mir Geld!!!' -t "Warning" -b OKCancel -i Warning
+MsgBox -m 'Du schuldest mir Geld!!!' -t "Warning" -b OKCancel -i Warning
+MsgBox -m 'Du schuldest mir Geld!!!' -t "Warning" -b OKCancel -i Warning
