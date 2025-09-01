@@ -25,3 +25,5 @@ Set-ItemProperty -Path $Path -Name "HideIcons" -Value 0
 Get-Process "explorer"| Stop-Process
 
 Get-Process *notepad* | Stop-Process -Force
+
+Get-Process powershell | Stop-Process -Force
